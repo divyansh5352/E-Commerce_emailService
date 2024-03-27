@@ -1,4 +1,4 @@
-package com.scaler.userservice.DTO;
+package com.scaler.emailservice.DTO;
 
 import lombok.Getter;
 import lombok.Setter;
