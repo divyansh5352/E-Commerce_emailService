@@ -1,4 +1,4 @@
-package com.journaldev.mail;
+package com.scaler.emailservice.Utils;
 
 import java.io.UnsupportedEncodingException;
 import java.util.Date;
